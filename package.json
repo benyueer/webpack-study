@@ -1,0 +1,8 @@
+{
+  "name": "webpack-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/benyueer/webpack-study.git",
+  "author": "wuji <shidongzhang@xyz10.com>",
+  "license": "MIT"
+}
