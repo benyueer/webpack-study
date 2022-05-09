@@ -2,7 +2,12 @@
   "name": "webpack-study",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "repository": "https://github.com/benyueer/webpack-study.git",
   "author": "wuji <shidongzhang@xyz10.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/preset-env": "^7.17.10"
+  }
 }
